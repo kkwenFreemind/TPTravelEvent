@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="org.springframework.boot:spring-boot-starter-log4j2:2.3.1.RELEASE" type="repository">
+    <properties maven-id="org.springframework.boot:spring-boot-starter-log4j2:2.3.1.RELEASE" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-log4j2-2.3.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-slf4j-impl-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-jul-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jul-to-slf4j-1.7.30.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-log4j2-2.3.1.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-slf4j-impl-2.13.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.25-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.13.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.13.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-jul-2.13.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jul-to-slf4j-1.7.30-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
